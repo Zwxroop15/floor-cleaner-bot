@@ -1,0 +1,6 @@
+image: /home/vboxuser/catkin_ws/src/floor_cleaner/maps/my_map.pgm
+resolution: 0.05  # Adjust this as per your map
+origin: [0.0, 0.0, 0.0]  # Origin position of the map
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
